@@ -1,0 +1,10 @@
+h1{
+    color: red; text-align: left; text-transform: capitalize;
+    text-shadow: 5px 5px 10px #000;
+}
+p{text-align: justify; line-height: 1.3em;}
+a{
+    /* text-decoration: overline; */
+    /* most used for  */
+    text-decoration: none;
+}

@@ -1,1 +1,2 @@
 # Procoder-CSS-Text-formatting
+In this series i reslize that css text formate properties mostly used for that even a tag and p and mostly div section to view different thing. In this case text formatting working for underline remove in link and whatever adding text justify align item or different things ...Thank you
